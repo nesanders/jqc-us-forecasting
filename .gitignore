@@ -1,0 +1,5 @@
+2020*
+__pycache__
+*.kate-swp
+data/
+_generate_data_file.py
